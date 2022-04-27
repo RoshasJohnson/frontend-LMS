@@ -1,0 +1,18 @@
+.mainbody{
+
+color: rgb(248, 0, 0);
+padding: 10%;
+}
+.bookName{
+    color: rgb(4, 81, 111);
+    font-weight: 900;
+    text-align: center;
+
+}
+.authorName{
+    color: rgb(2, 168, 52);
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+.theme{
+    color: black;
+}
